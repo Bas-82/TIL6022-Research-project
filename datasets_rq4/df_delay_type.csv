@@ -1,0 +1,481 @@
+APT_ICAO,Year,Month,delay_type
+EDDF,2023,01,Equipment (non-ATC)
+EDDF,2023,02,Weather
+EDDF,2023,03,Weather
+EDDF,2023,04,Weather
+EDDF,2023,05,Aerodrome Capacity
+EDDF,2023,06,Weather
+EDDF,2023,07,Weather
+EDDF,2023,08,Weather
+EDDF,2023,09,Weather
+EDDF,2023,10,Weather
+EDDF,2023,11,Weather
+EDDF,2023,12,Weather
+EDDF,2024,01,Weather
+EDDF,2024,02,Weather
+EDDF,2024,03,Weather
+EDDF,2024,04,Weather
+EDDF,2024,05,Weather
+EDDF,2024,06,Weather
+EDDF,2024,07,Weather
+EDDF,2024,08,Weather
+EDDF,2024,09,Weather
+EDDF,2024,10,Weather
+EDDF,2024,11,Weather
+EDDF,2024,12,Weather
+EDDM,2023,01,ATC Capacity
+EDDM,2023,02,Special Event
+EDDM,2023,03,Weather
+EDDM,2023,04,Weather
+EDDM,2023,05,Weather
+EDDM,2023,06,Weather
+EDDM,2023,07,Weather
+EDDM,2023,08,Weather
+EDDM,2023,09,Weather
+EDDM,2023,10,Weather
+EDDM,2023,11,Weather
+EDDM,2023,12,Weather
+EDDM,2024,01,Weather
+EDDM,2024,02,Accident/Incident
+EDDM,2024,03,Weather
+EDDM,2024,04,Weather
+EDDM,2024,05,Weather
+EDDM,2024,06,Weather
+EDDM,2024,07,Weather
+EDDM,2024,08,Weather
+EDDM,2024,09,Weather
+EDDM,2024,10,Weather
+EDDM,2024,11,Weather
+EDDM,2024,12,Weather
+EGKK,2023,01,Weather
+EGKK,2023,02,Weather
+EGKK,2023,03,Weather
+EGKK,2023,04,Aerodrome Capacity
+EGKK,2023,05,Aerodrome Capacity
+EGKK,2023,06,Aerodrome Capacity
+EGKK,2023,07,Aerodrome Capacity
+EGKK,2023,08,Aerodrome Capacity
+EGKK,2023,09,Aerodrome Capacity
+EGKK,2023,10,Aerodrome Capacity
+EGKK,2023,11,Aerodrome Capacity
+EGKK,2023,12,Weather
+EGKK,2024,01,Weather
+EGKK,2024,02,Weather
+EGKK,2024,03,Weather
+EGKK,2024,04,Aerodrome Capacity
+EGKK,2024,05,Aerodrome Capacity
+EGKK,2024,06,Aerodrome Capacity
+EGKK,2024,07,Aerodrome Capacity
+EGKK,2024,08,Aerodrome Capacity
+EGKK,2024,09,Aerodrome Capacity
+EGKK,2024,10,Aerodrome Capacity
+EGKK,2024,11,Weather
+EGKK,2024,12,Weather
+EGLL,2023,01,Weather
+EGLL,2023,02,Weather
+EGLL,2023,03,Weather
+EGLL,2023,04,Weather
+EGLL,2023,05,Weather
+EGLL,2023,06,Weather
+EGLL,2023,07,Weather
+EGLL,2023,08,Weather
+EGLL,2023,09,Weather
+EGLL,2023,10,Weather
+EGLL,2023,11,Weather
+EGLL,2023,12,Weather
+EGLL,2024,01,Weather
+EGLL,2024,02,Weather
+EGLL,2024,03,Weather
+EGLL,2024,04,Weather
+EGLL,2024,05,Weather
+EGLL,2024,06,ATC Capacity
+EGLL,2024,07,ATC Capacity
+EGLL,2024,08,ATC Capacity
+EGLL,2024,09,Weather
+EGLL,2024,10,Weather
+EGLL,2024,11,Weather
+EGLL,2024,12,Weather
+EHAM,2023,01,Weather
+EHAM,2023,02,Weather
+EHAM,2023,03,Weather
+EHAM,2023,04,Aerodrome Capacity
+EHAM,2023,05,Weather
+EHAM,2023,06,Aerodrome Capacity
+EHAM,2023,07,Aerodrome Capacity
+EHAM,2023,08,Aerodrome Capacity
+EHAM,2023,09,Aerodrome Capacity
+EHAM,2023,10,Aerodrome Capacity
+EHAM,2023,11,Aerodrome Capacity
+EHAM,2023,12,Aerodrome Capacity
+EHAM,2024,01,Aerodrome Capacity
+EHAM,2024,02,Aerodrome Capacity
+EHAM,2024,03,Aerodrome Capacity
+EHAM,2024,04,Aerodrome Capacity
+EHAM,2024,05,Aerodrome Capacity
+EHAM,2024,06,Aerodrome Capacity
+EHAM,2024,07,Aerodrome Capacity
+EHAM,2024,08,Aerodrome Capacity
+EHAM,2024,09,Aerodrome Capacity
+EHAM,2024,10,Aerodrome Capacity
+EHAM,2024,11,Aerodrome Capacity
+EHAM,2024,12,Aerodrome Capacity
+EIDW,2023,01,Accident/Incident
+EIDW,2023,02,Other
+EIDW,2023,03,Equipment (non-ATC)
+EIDW,2023,04,Special Event
+EIDW,2023,05,Aerodrome Capacity
+EIDW,2023,06,Aerodrome Capacity
+EIDW,2023,07,Weather
+EIDW,2023,08,Weather
+EIDW,2023,09,Weather
+EIDW,2023,10,Weather
+EIDW,2023,11,Weather
+EIDW,2023,12,Weather
+EIDW,2024,01,Weather
+EIDW,2024,02,Weather
+EIDW,2024,03,Weather
+EIDW,2024,04,Weather
+EIDW,2024,05,Weather
+EIDW,2024,06,Weather
+EIDW,2024,07,Weather
+EIDW,2024,08,Weather
+EIDW,2024,09,Weather
+EIDW,2024,10,Weather
+EIDW,2024,11,Aerodrome Capacity
+EIDW,2024,12,Weather
+EKCH,2023,01,ATC Staffing
+EKCH,2023,02,ATC Staffing
+EKCH,2023,03,Weather
+EKCH,2023,04,ATC Staffing
+EKCH,2023,05,ATC Staffing
+EKCH,2023,06,ATC Capacity
+EKCH,2023,07,ATC Capacity
+EKCH,2023,08,Weather
+EKCH,2023,09,ATC Staffing
+EKCH,2023,10,Aerodrome Capacity
+EKCH,2023,11,Equipment (ATC)
+EKCH,2023,12,Weather
+EKCH,2024,01,Weather
+EKCH,2024,02,Weather
+EKCH,2024,03,Weather
+EKCH,2024,04,ATC Staffing
+EKCH,2024,05,ATC Staffing
+EKCH,2024,06,ATC Staffing
+EKCH,2024,07,ATC Capacity
+EKCH,2024,08,ATC Staffing
+EKCH,2024,09,Weather
+EKCH,2024,10,Weather
+EKCH,2024,11,ATC Staffing
+EKCH,2024,12,ATC Staffing
+ENGM,2023,01,Weather
+ENGM,2023,02,Weather
+ENGM,2023,03,Weather
+ENGM,2023,04,Weather
+ENGM,2023,05,Accident/Incident
+ENGM,2023,06,Weather
+ENGM,2023,07,Weather
+ENGM,2023,08,Weather
+ENGM,2023,09,Accident/Incident
+ENGM,2023,10,Weather
+ENGM,2023,11,Weather
+ENGM,2023,12,Weather
+ENGM,2024,01,Weather
+ENGM,2024,02,Weather
+ENGM,2024,03,Weather
+ENGM,2024,04,Weather
+ENGM,2024,05,Weather
+ENGM,2024,06,Weather
+ENGM,2024,07,ATC Staffing
+ENGM,2024,08,Weather
+ENGM,2024,09,Weather
+ENGM,2024,10,Weather
+ENGM,2024,11,Weather
+ENGM,2024,12,Weather
+LEBL,2023,01,Accident/Incident
+LEBL,2023,02,Environmental Issues
+LEBL,2023,03,Aerodrome Capacity
+LEBL,2023,04,Environmental Issues
+LEBL,2023,05,Weather
+LEBL,2023,06,Environmental Issues
+LEBL,2023,07,Environmental Issues
+LEBL,2023,08,Environmental Issues
+LEBL,2023,09,Environmental Issues
+LEBL,2023,10,Environmental Issues
+LEBL,2023,11,Environmental Issues
+LEBL,2023,12,Accident/Incident
+LEBL,2024,01,Environmental Issues
+LEBL,2024,02,Weather
+LEBL,2024,03,Weather
+LEBL,2024,04,Aerodrome Capacity
+LEBL,2024,05,Weather
+LEBL,2024,06,Environmental Issues
+LEBL,2024,07,Environmental Issues
+LEBL,2024,08,Environmental Issues
+LEBL,2024,09,Weather
+LEBL,2024,10,Weather
+LEBL,2024,11,Weather
+LEBL,2024,12,ATC Capacity
+LEMD,2023,01,ATC Capacity
+LEMD,2023,02,ATC Capacity
+LEMD,2023,03,Special Event
+LEMD,2023,04,ATC Capacity
+LEMD,2023,05,ATC Capacity
+LEMD,2023,06,ATC Capacity
+LEMD,2023,07,ATC Capacity
+LEMD,2023,08,ATC Capacity
+LEMD,2023,09,ATC Capacity
+LEMD,2023,10,ATC Capacity
+LEMD,2023,11,ATC Capacity
+LEMD,2023,12,ATC Capacity
+LEMD,2024,01,Weather
+LEMD,2024,02,ATC Capacity
+LEMD,2024,03,ATC Capacity
+LEMD,2024,04,ATC Capacity
+LEMD,2024,05,ATC Capacity
+LEMD,2024,06,ATC Capacity
+LEMD,2024,07,ATC Capacity
+LEMD,2024,08,ATC Capacity
+LEMD,2024,09,ATC Capacity
+LEMD,2024,10,Aerodrome Capacity
+LEMD,2024,11,Aerodrome Capacity
+LEMD,2024,12,ATC Capacity
+LEPA,2023,01,Accident/Incident
+LEPA,2023,02,Weather
+LEPA,2023,03,Weather
+LEPA,2023,04,Weather
+LEPA,2023,05,Weather
+LEPA,2023,06,ATC Capacity
+LEPA,2023,07,ATC Capacity
+LEPA,2023,08,ATC Capacity
+LEPA,2023,09,ATC Capacity
+LEPA,2023,10,ATC Capacity
+LEPA,2023,11,Weather
+LEPA,2023,12,Weather
+LEPA,2024,01,Weather
+LEPA,2024,02,Weather
+LEPA,2024,03,Weather
+LEPA,2024,04,Weather
+LEPA,2024,05,ATC Capacity
+LEPA,2024,06,ATC Capacity
+LEPA,2024,07,ATC Capacity
+LEPA,2024,08,ATC Capacity
+LEPA,2024,09,ATC Capacity
+LEPA,2024,10,ATC Capacity
+LEPA,2024,11,Weather
+LEPA,2024,12,ATC Capacity
+LFPG,2023,01,Weather
+LFPG,2023,02,Industrial Action (ATC)
+LFPG,2023,03,Industrial Action (ATC)
+LFPG,2023,04,Industrial Action (ATC)
+LFPG,2023,05,Weather
+LFPG,2023,06,Special Event
+LFPG,2023,07,Weather
+LFPG,2023,08,Weather
+LFPG,2023,09,Weather
+LFPG,2023,10,ATC Staffing
+LFPG,2023,11,Weather
+LFPG,2023,12,Weather
+LFPG,2024,01,Weather
+LFPG,2024,02,Weather
+LFPG,2024,03,Weather
+LFPG,2024,04,Weather
+LFPG,2024,05,Weather
+LFPG,2024,06,Weather
+LFPG,2024,07,Weather
+LFPG,2024,08,Weather
+LFPG,2024,09,Weather
+LFPG,2024,10,Weather
+LFPG,2024,11,Weather
+LFPG,2024,12,Weather
+LGAV,2023,01,Accident/Incident
+LGAV,2023,02,Weather
+LGAV,2023,03,Equipment (ATC)
+LGAV,2023,04,Equipment (ATC)
+LGAV,2023,05,Equipment (ATC)
+LGAV,2023,06,Equipment (ATC)
+LGAV,2023,07,ATC Capacity
+LGAV,2023,08,ATC Capacity
+LGAV,2023,09,ATC Capacity
+LGAV,2023,10,ATC Capacity
+LGAV,2023,11,Aerodrome Capacity
+LGAV,2023,12,ATC Capacity
+LGAV,2024,01,Equipment (ATC)
+LGAV,2024,02,Equipment (ATC)
+LGAV,2024,03,ATC Capacity
+LGAV,2024,04,ATC Capacity
+LGAV,2024,05,ATC Capacity
+LGAV,2024,06,ATC Capacity
+LGAV,2024,07,ATC Capacity
+LGAV,2024,08,ATC Capacity
+LGAV,2024,09,ATC Capacity
+LGAV,2024,10,ATC Capacity
+LGAV,2024,11,ATC Capacity
+LGAV,2024,12,ATC Capacity
+LIRF,2023,01,Accident/Incident
+LIRF,2023,02,Accident/Incident
+LIRF,2023,03,Special Event
+LIRF,2023,04,Industrial Action (ATC)
+LIRF,2023,05,Airspace Management
+LIRF,2023,06,Airspace Management
+LIRF,2023,07,Accident/Incident
+LIRF,2023,08,Weather
+LIRF,2023,09,Weather
+LIRF,2023,10,Accident/Incident
+LIRF,2023,11,Weather
+LIRF,2023,12,Weather
+LIRF,2024,01,Aerodrome Capacity
+LIRF,2024,02,Weather
+LIRF,2024,03,Accident/Incident
+LIRF,2024,04,Weather
+LIRF,2024,05,Weather
+LIRF,2024,06,Accident/Incident
+LIRF,2024,07,Weather
+LIRF,2024,08,Other
+LIRF,2024,09,Weather
+LIRF,2024,10,Weather
+LIRF,2024,11,Aerodrome Capacity
+LIRF,2024,12,Weather
+LOWW,2023,01,Weather
+LOWW,2023,02,Weather
+LOWW,2023,03,ATC Staffing
+LOWW,2023,04,ATC Staffing
+LOWW,2023,05,Weather
+LOWW,2023,06,Weather
+LOWW,2023,07,Weather
+LOWW,2023,08,Weather
+LOWW,2023,09,Weather
+LOWW,2023,10,Weather
+LOWW,2023,11,Weather
+LOWW,2023,12,Weather
+LOWW,2024,01,Weather
+LOWW,2024,02,Accident/Incident
+LOWW,2024,03,Weather
+LOWW,2024,04,ATC Staffing
+LOWW,2024,05,Weather
+LOWW,2024,06,Weather
+LOWW,2024,07,Weather
+LOWW,2024,08,Weather
+LOWW,2024,09,Weather
+LOWW,2024,10,ATC Staffing
+LOWW,2024,11,Weather
+LOWW,2024,12,Weather
+LPPT,2023,01,Aerodrome Capacity
+LPPT,2023,02,Aerodrome Capacity
+LPPT,2023,03,Aerodrome Capacity
+LPPT,2023,04,Aerodrome Capacity
+LPPT,2023,05,Aerodrome Capacity
+LPPT,2023,06,Aerodrome Capacity
+LPPT,2023,07,Aerodrome Capacity
+LPPT,2023,08,Aerodrome Capacity
+LPPT,2023,09,Aerodrome Capacity
+LPPT,2023,10,Aerodrome Capacity
+LPPT,2023,11,Aerodrome Capacity
+LPPT,2023,12,Aerodrome Capacity
+LPPT,2024,01,Aerodrome Capacity
+LPPT,2024,02,Aerodrome Capacity
+LPPT,2024,03,Aerodrome Capacity
+LPPT,2024,04,Aerodrome Capacity
+LPPT,2024,05,Aerodrome Capacity
+LPPT,2024,06,Aerodrome Capacity
+LPPT,2024,07,Aerodrome Capacity
+LPPT,2024,08,Aerodrome Capacity
+LPPT,2024,09,Aerodrome Capacity
+LPPT,2024,10,Aerodrome Capacity
+LPPT,2024,11,Aerodrome Capacity
+LPPT,2024,12,Aerodrome Capacity
+LSZH,2023,01,Aerodrome Capacity
+LSZH,2023,02,Weather
+LSZH,2023,03,Aerodrome Capacity
+LSZH,2023,04,Weather
+LSZH,2023,05,Weather
+LSZH,2023,06,Aerodrome Capacity
+LSZH,2023,07,Aerodrome Capacity
+LSZH,2023,08,Aerodrome Capacity
+LSZH,2023,09,Aerodrome Capacity
+LSZH,2023,10,Aerodrome Capacity
+LSZH,2023,11,Weather
+LSZH,2023,12,Aerodrome Capacity
+LSZH,2024,01,Aerodrome Capacity
+LSZH,2024,02,Aerodrome Capacity
+LSZH,2024,03,Aerodrome Capacity
+LSZH,2024,04,Weather
+LSZH,2024,05,Aerodrome Capacity
+LSZH,2024,06,Weather
+LSZH,2024,07,Aerodrome Capacity
+LSZH,2024,08,Aerodrome Capacity
+LSZH,2024,09,Weather
+LSZH,2024,10,Aerodrome Capacity
+LSZH,2024,11,Aerodrome Capacity
+LSZH,2024,12,Weather
+LTAI,2023,01,Accident/Incident
+LTAI,2023,02,Accident/Incident
+LTAI,2023,03,Accident/Incident
+LTAI,2023,04,Aerodrome Capacity
+LTAI,2023,05,Aerodrome Capacity
+LTAI,2023,06,Aerodrome Capacity
+LTAI,2023,07,Aerodrome Capacity
+LTAI,2023,08,Aerodrome Capacity
+LTAI,2023,09,Aerodrome Capacity
+LTAI,2023,10,Aerodrome Capacity
+LTAI,2023,11,Special Event
+LTAI,2023,12,Accident/Incident
+LTAI,2024,01,Accident/Incident
+LTAI,2024,02,Accident/Incident
+LTAI,2024,03,Accident/Incident
+LTAI,2024,04,Special Event
+LTAI,2024,05,Aerodrome Capacity
+LTAI,2024,06,Aerodrome Capacity
+LTAI,2024,07,Aerodrome Capacity
+LTAI,2024,08,Aerodrome Capacity
+LTAI,2024,09,Aerodrome Capacity
+LTAI,2024,10,Aerodrome Capacity
+LTAI,2024,11,Aerodrome Capacity
+LTAI,2024,12,Aerodrome Capacity
+LTFJ,2023,01,Weather
+LTFJ,2023,02,Weather
+LTFJ,2023,03,Aerodrome Capacity
+LTFJ,2023,04,Aerodrome Capacity
+LTFJ,2023,05,Aerodrome Capacity
+LTFJ,2023,06,Aerodrome Capacity
+LTFJ,2023,07,Aerodrome Capacity
+LTFJ,2023,08,Aerodrome Capacity
+LTFJ,2023,09,Aerodrome Capacity
+LTFJ,2023,10,Aerodrome Capacity
+LTFJ,2023,11,Aerodrome Capacity
+LTFJ,2023,12,Aerodrome Capacity
+LTFJ,2024,01,Aerodrome Capacity
+LTFJ,2024,02,Aerodrome Capacity
+LTFJ,2024,03,Aerodrome Capacity
+LTFJ,2024,04,Aerodrome Capacity
+LTFJ,2024,05,Aerodrome Capacity
+LTFJ,2024,06,Aerodrome Capacity
+LTFJ,2024,07,Aerodrome Capacity
+LTFJ,2024,08,Aerodrome Capacity
+LTFJ,2024,09,Aerodrome Capacity
+LTFJ,2024,10,Aerodrome Capacity
+LTFJ,2024,11,Aerodrome Capacity
+LTFJ,2024,12,Aerodrome Capacity
+LTFM,2023,01,Weather
+LTFM,2023,02,Weather
+LTFM,2023,03,Weather
+LTFM,2023,04,Weather
+LTFM,2023,05,Weather
+LTFM,2023,06,Aerodrome Capacity
+LTFM,2023,07,Aerodrome Capacity
+LTFM,2023,08,Aerodrome Capacity
+LTFM,2023,09,Aerodrome Capacity
+LTFM,2023,10,Aerodrome Capacity
+LTFM,2023,11,Weather
+LTFM,2023,12,Aerodrome Capacity
+LTFM,2024,01,Weather
+LTFM,2024,02,Aerodrome Capacity
+LTFM,2024,03,Weather
+LTFM,2024,04,Weather
+LTFM,2024,05,Weather
+LTFM,2024,06,Aerodrome Capacity
+LTFM,2024,07,Weather
+LTFM,2024,08,Weather
+LTFM,2024,09,Weather
+LTFM,2024,10,Weather
+LTFM,2024,11,Weather
+LTFM,2024,12,Accident/Incident
