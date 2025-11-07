@@ -13,3 +13,23 @@ This is a project regarding the TIL6022 course at the TU Delft. With the aim to 
 
 link to the datasets used:
 https://ansperformance.eu/data/ 
+
+Prequisite 
+```txt
+pandas
+geopandas
+numpy
+matplotlib.pyplot
+matplotlib.patches
+pathlib
+plotly.express
+ipywidgets
+IPython.display
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.compose
+sklearn.linear_model
+sklearn.pipeline
+sklearn.metrics
+```
+ 
